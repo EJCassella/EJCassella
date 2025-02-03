@@ -4,7 +4,7 @@
 
 Currently, I am a postdoctoral research associate at the University of Sheffield working to develop new solar energy technologies.
 
-I have 7 years of experience using Python to collect, clean, and analyse experimental research data. Over the last couple of years I have been exploring machine learning techniques to augment my experimental research.
+I have 7 years of experience using Python to collect, clean, and analyse experimental research data.
 
 More broadly, I am extremely excited about the potential for machine learning to revolutionise sustainability research and development as it has for language processing, computer vision, and predicting protein structures.
 
