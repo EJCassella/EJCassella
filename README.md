@@ -6,8 +6,6 @@ Currently, I am a postdoctoral research associate at the University of Sheffield
 
 I have 7 years of experience using Python to collect, clean, and analyse experimental research data.
 
-More broadly, I am extremely excited about the potential for machine learning to revolutionise sustainability research and development as it has for language processing, computer vision, and predicting protein structures.
-
 Keep an eye out for my portfolio website coming soon.
 
 💃 More about me:
