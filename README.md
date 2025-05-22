@@ -20,7 +20,7 @@ Resources for students at the University of Sheffield:
 
 👩‍💻 [Interactive dashboard of the Perovskite Database](https://public.tableau.com/app/profile/elena.josephine.cassella/viz/2025-07-02_perovskite-database/PerovskiteDatabaseAnalysis)
 
-⚡ [Maximum power point tracking](https://github.com/EJCassella/K2400_maximum_power_point_tracker)
+⚡ [Maximum power point tracking](https://github.com/EJCassella/mppPy)
 
 📊 [Device data analysis](https://github.com/EJCassella/Device-data-plotting)
 
